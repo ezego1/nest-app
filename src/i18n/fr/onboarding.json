@@ -1,0 +1,17 @@
+{
+    "MESSAGES": {
+        "SUCCESS": "Success",
+        "ERROR": "Error",
+        "FAILED_AUTHENTICATION": "Authentication failed",
+        "MISSING_PRIVILEDGE": "Unauthorised. Required Privilege missing!",
+        "MISSING_FIELD": "Request contains missing or invalid fields.",
+        "NO_RECORDS_FOUND": "Your search was successful, but no records found",
+        "REQUIRED_HEADER_MISSEN": "One or more required header missing",
+        "NO_AUTH_USER": "Validated but no user was found",
+        "UNAUTHORISED": "Unauthorised",
+        "UNAUTHORISED_TOKEN": "Unauthorised user token",
+        "TOKEN_INTERNAL_SERVER_ERROR": "Internal Server Error when validating token",
+        "USER_DOES_NOT_EXIST": "User with Id does not exist in this organisation",
+        "CANNOT_COMPLETE_OPERATION": "Cannot complete this operation, unauthorized action"
+    }
+}
