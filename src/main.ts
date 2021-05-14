@@ -4,7 +4,7 @@ import { DocumentBuilder, SwaggerModule } from '@nestjs/swagger';
 import { AppModule } from './app.module';
 import * as helmet from 'helmet';
 
-const API_PORT = process.env.API_PORT || 4000;
+const API_PORT = process.env.PORT || 4000;
 const API_DEFAULT_PREFIX = '/api/v1';
 
 async function bootstrap() {
